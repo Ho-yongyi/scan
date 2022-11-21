@@ -1,0 +1,17 @@
+.y{
+    width: 80%;
+    font-size: 22px;
+
+}
+body{
+    color: black;
+    background-color: whitesmoke;
+}
+.b{
+    color: grey;
+}
+#video{
+    border: 2px ridge yellow;
+    width: 350px;
+    height: 350px;
+}
